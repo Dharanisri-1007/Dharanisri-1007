@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhaneshree Subramani</h1>
+<h1 align="center">Hi 👋, I'm Dharani Sri Subramani</h1>
 
 <h3 align="center">
 Embedded Systems Engineer | IoT Developer | Electronics & Communication Engineering Student
@@ -39,7 +39,7 @@ Embedded Systems Engineer | IoT Developer | Electronics & Communication Engineer
 # Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,python,arduino,github,vscode,microcontroller,mysql" />
+<img src="https://skillicons.dev/icons?i=c,python,arduino,github,vscode,mysql" />
 </p>
 
 ### Hardware & Platforms
