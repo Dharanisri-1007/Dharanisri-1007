@@ -5,7 +5,7 @@ Embedded Systems Engineer | IoT Developer | Electronics & Communication Engineer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Embedded+Systems+Developer;IoT+%7C+ESP32+%7C+Arduino;Edge+AI+%7C+TinyML+Enthusiast;Electronics+and+Communication+Engineering;Always+Learning+New+Technologies!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Embedded+Systems+Developer;IoT+%7C+ESP32+%7C+Arduino;Electronics+and+Communication+Engineering;Always+Learning+New+Technologies!" />
 </p>
 
 ---
